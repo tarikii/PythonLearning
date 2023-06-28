@@ -1,4 +1,3 @@
-
 name = "Tarik"
 #print(len(name))
 #print(name.find("t"))

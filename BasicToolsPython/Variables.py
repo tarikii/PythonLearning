@@ -1,4 +1,3 @@
-
 first_name = "Tarik"
 last_name = "Aabouch"
 full_name = first_name + " " + last_name
